@@ -3,3 +3,4 @@ Chart using CSV and Bitcoin prices with API
 
 - CanvasJS graphic using Binance data in CSV format.
 - Instant price tracking with Bitcoin API support.
+- Basic and simple interface.
